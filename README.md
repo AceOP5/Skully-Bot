@@ -1,8 +1,4 @@
 # 📝 Starting-Up
-NOTE:
-```
-Before you view this bot, please know that this was one of my very first times programming. You'll notice that there are many flaws and not very efficient. However, this does work for v12. 
-```
 **Starting Up:**
 - First install all packages needed: `npm i`
 - Next fill in stuff in `config.json`
@@ -18,6 +14,3 @@ This bot offers many commands ranging from Moderation, Economy, and even Image M
 ^bal
 ^ban <user> <reason>
 ```
-
-### ⚠️ Warning
-**This bot will not be further updated. I'm currently making a new bot which might be posted on github**
