@@ -31,7 +31,7 @@ for (const file of commandFiles) {
 client.once('ready', () => {
 
     console.log(chalk.bgGreenBright.black("[" + client.user.username + "]"), "Bot Online");
-    client.user.setActivity('@NovaBot help 💖', {
+    client.user.setActivity('@Skully help ', {
         type: "PLAYING"
     });
 
